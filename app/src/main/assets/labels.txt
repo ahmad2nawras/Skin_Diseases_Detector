@@ -1,0 +1,33 @@
+Acne
+Actinic Kertosis
+Allergic Contact Dermatitis
+Alopecia Areata
+Atopic Dermatitis
+Atypical Nevi
+Bassal Cell
+Dermatofibroma
+Distal Subungual Onychomycosis
+Drug Eruption
+Eczema Hand
+Erythema Multiforme
+Glucagonoma
+Herpes Zoster
+Keratoacanthoma
+Lichen Planus
+Lupus Acute
+Malignant Melanoma
+Molluscum Contagiosum
+Perorial Dermatit
+Phototoxic Reaction
+Pityriasis
+Psoriasis Chronic Plaque
+Psoriasis Guttate
+Psoriasis Nails
+Psoriasis Palms
+Rosacea
+Schamberg Disease
+Seborrheic Keratosis Irritated
+Skin Tags Polyps
+Squamous Cell Carcinoma Ear
+Sun Burn
+Varicella
